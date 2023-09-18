@@ -1,5 +1,6 @@
 
 import './App.css'
+import Gyms from './components/Gyms/Gyms'
 import Navbar from './components/Navbar/Navbar'
 
 function App() {
@@ -9,7 +10,9 @@ function App() {
     <>
      <div className='max-w-7xl mx-auto'>
      <Navbar></Navbar>
+     <Gyms></Gyms>
      </div>
+     
     </>
   )
 }
