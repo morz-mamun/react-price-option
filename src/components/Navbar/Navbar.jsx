@@ -13,7 +13,7 @@ const Navbar = () => {
       
       
     return (
-        <div className='flex justify-center items-center gap-10 my-4'>
+        <div className='md:flex justify-center items-center gap-10 my-4'>
             {
                 routes.map((route, idx) => <Link key={idx} route = {route}></Link>)
             }
