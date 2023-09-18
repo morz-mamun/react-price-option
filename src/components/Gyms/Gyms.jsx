@@ -80,45 +80,6 @@ const Gyms = () => {
             "Outdoor training area",
             "Nutrition seminars"
           ]
-        },
-        {
-          id: 5,
-          name: "ActiveLife Gym",
-          price: 40.00,
-          features: [
-            "Cardio equipment",
-            "Strength training machines",
-            "Group fitness classes",
-            "Sauna and steam room",
-            "Outdoor training area",
-            "Nutrition seminars"
-          ]
-        },
-        {
-          id: 5,
-          name: "ActiveLife Gym",
-          price: 40.00,
-          features: [
-            "Cardio equipment",
-            "Strength training machines",
-            "Group fitness classes",
-            "Sauna and steam room",
-            "Outdoor training area",
-            "Nutrition seminars"
-          ]
-        },
-        {
-          id: 5,
-          name: "ActiveLife Gym",
-          price: 40.00,
-          features: [
-            "Cardio equipment",
-            "Strength training machines",
-            "Group fitness classes",
-            "Sauna and steam room",
-            "Outdoor training area",
-            "Nutrition seminars"
-          ]
         }
       ];
       

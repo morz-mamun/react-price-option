@@ -4,6 +4,7 @@ import './App.css'
 import Gyms from './components/Gyms/Gyms'
 import Navbar from './components/Navbar/Navbar'
 import Chart from './components/Chart/Chart'
+import Phones from './components/Phones/Phones'
 
 function App() {
   
@@ -14,6 +15,7 @@ function App() {
      <Navbar></Navbar>
      <Gyms></Gyms>
      <Chart></Chart>
+     <Phones></Phones>
      </div>
      
     </>
