@@ -125,7 +125,7 @@ const Gyms = () => {
       
     return (
         <div>
-            <h1 className='px-4 text-xl font-bold bg-slate-200 w-fit mb-2 rounded-lg sticky'>Best Prices in the Town</h1>
+            <h1 className='px-4 text-xl font-bold bg-slate-200 w-fit mb-2 rounded-lg '>Best Prices in the Town</h1>
             <div className='grid grid-cols-3 gap-4 px-4'>
                 {
                     gyms.map((gym, idx) => <Gym key={idx} gym = {gym}></Gym>)
